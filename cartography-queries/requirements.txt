@@ -1,0 +1,5 @@
+simplejson
+neo4j
+pandas
+IPython
+python-dotenv
